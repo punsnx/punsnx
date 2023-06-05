@@ -19,8 +19,11 @@ Here are some ideas to get you started:
 
 ## Skills
 ### I Made Real World Apps with these (Included Outside Github and Private Repo)
-  ![python](https://img.shields.io/badge/Code-Python-darkblue)
+  ![JAVA](https://img.shields.io/badge/Code-JAVA-green)
+  ![React](https://img.shields.io/badge/Code-React-darkblue)
+  ![Intellij](https://img.shields.io/badge/Tool-Intellij-purple)
   ![javascript](https://img.shields.io/badge/Code-JS-yellow)
+  ![python](https://img.shields.io/badge/Code-Python-darkblue)
   ![React-Native](https://img.shields.io/badge/Code-ReactNative-blue)
   ![HTMLCSS](https://img.shields.io/badge/Code-HTML&CSS-red)
   ![C#](https://img.shields.io/badge/Code-CSharp-yellow)
@@ -37,11 +40,9 @@ Here are some ideas to get you started:
   ![Heroku](https://img.shields.io/badge/Tool-Heroku-purple)
   
   
-### havent try to make real world app with these yet!!
-  ![JAVA](https://img.shields.io/badge/Code-JAVA-green)
+### havent try to make real world app with these yet!
   ![BrainF](https://img.shields.io/badge/Code-BrainF-darkgreen)
-  ![React](https://img.shields.io/badge/Code-React-darkblue)
-  ![Intellij](https://img.shields.io/badge/Tool-Intellij-purple)
+
   
 
 
