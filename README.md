@@ -19,6 +19,8 @@ Here are some ideas to get you started:
 
 ## Skills
 ### I Made Real World Apps with these (Included Outside Github and Private Repo)
+  ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+  ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
   ![JAVA](https://img.shields.io/badge/Code-JAVA-green)
   ![React](https://img.shields.io/badge/Code-React-darkblue)
   ![Intellij](https://img.shields.io/badge/Tool-Intellij-purple)
