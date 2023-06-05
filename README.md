@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## SUNMODZA SAFEHOUSE
+## PUNSNX SAFEHOUSE
 ![sunmodza's GitHub stats](https://github-readme-stats.vercel.app/api?username=punsnx&show_icons=true&theme=radical)
 
 ## Skills
