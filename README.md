@@ -21,8 +21,8 @@ Here are some ideas to get you started:
 ### I Made Real World Apps with these (Included Outside Github and Private Repo)
   ![JAVA](https://img.shields.io/badge/Code-JAVA-red)
   ![javascript](https://img.shields.io/badge/Code-JS-yellow)
-  ![python](https://img.shields.io/badge/Code-Python-darkblue)
-  ![C](https://img.shields.io/badge/Code-C-yellow)
+  ![python](https://img.shields.io/badge/Code-Python-green)
+  ![C](https://img.shields.io/badge/Code-C-aqua)
   ![HTMLCSS](https://img.shields.io/badge/Code-HTML&CSS-red)
   
   ![Github](https://img.shields.io/badge/Tool-Github-white)
