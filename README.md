@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 ## Skills
 ### I Made Real World Apps with these (Included Outside Github and Private Repo)
-  ![JAVA](https://img.shields.io/badge/Code-JAVA-green)
+  ![JAVA](https://img.shields.io/badge/Code-JAVA-red)
   ![javascript](https://img.shields.io/badge/Code-JS-yellow)
   ![python](https://img.shields.io/badge/Code-Python-darkblue)
   ![C](https://img.shields.io/badge/Code-C-yellow)
