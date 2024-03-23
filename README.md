@@ -23,6 +23,7 @@ Here are some ideas to get you started:
   ![javascript](https://img.shields.io/badge/Code-JS-yellow)
   ![python](https://img.shields.io/badge/Code-Python-green)
   ![C](https://img.shields.io/badge/Code-C-aqua)
+  ![C++](https://img.shields.io/badge/Code-C-aqua)
   ![HTMLCSS](https://img.shields.io/badge/Code-HTML&CSS-red)
   
   ![Github](https://img.shields.io/badge/Tool-Github-white)
