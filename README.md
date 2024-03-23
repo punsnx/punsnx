@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## PUNSNX SAFEHOUSE
-![sunmodza's GitHub stats](https://github-readme-stats.vercel.app/api?username=punsnx&show_icons=true&theme=radical)
+![punsnx's GitHub stats](https://github-readme-stats.vercel.app/api?username=punsnx&show_icons=true&theme=radical)
 
 ## Skills
 ### I Made Real World Apps with these (Included Outside Github and Private Repo)
@@ -23,7 +23,7 @@ Here are some ideas to get you started:
   ![javascript](https://img.shields.io/badge/Code-JS-yellow)
   ![python](https://img.shields.io/badge/Code-Python-green)
   ![C](https://img.shields.io/badge/Code-C-aqua)
-  ![C++](https://img.shields.io/badge/Code-C-aqua)
+  ![C++](https://img.shields.io/badge/Code-C++-aqua)
   ![HTMLCSS](https://img.shields.io/badge/Code-HTML&CSS-red)
   
   ![Github](https://img.shields.io/badge/Tool-Github-white)
