@@ -24,6 +24,7 @@ Here are some ideas to get you started:
   ![python](https://img.shields.io/badge/Code-Python-green)
   ![C](https://img.shields.io/badge/Code-C-aqua)
   ![C++](https://img.shields.io/badge/Code-C++-aqua)
+  ![C#](https://img.shields.io/badge/Code-CSharp-yellow)
   ![HTMLCSS](https://img.shields.io/badge/Code-HTML&CSS-red)
   
   ![Github](https://img.shields.io/badge/Tool-Github-white)
@@ -38,7 +39,7 @@ Here are some ideas to get you started:
   ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
   ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
   
-### IDE I've ever used.
+### IDE.
   ![VS-code](https://img.shields.io/badge/Tool-VScode-blue)
   ![Intellij](https://img.shields.io/badge/Tool-Intellij-purple)
   ![Pycharm](https://img.shields.io/badge/Tool-Pycharm-yellow)
@@ -46,8 +47,6 @@ Here are some ideas to get you started:
   ![Arduino-IDE](https://img.shields.io/badge/Tool-Pycharm-green)
   
 ### havent try to make real world app with these yet!
-  ![C#](https://img.shields.io/badge/Code-CSharp-yellow)
-  ![C++](https://img.shields.io/badge/Code-C++-yellow)
   ![BrainF](https://img.shields.io/badge/Code-BrainF-darkgreen)
   ![GoogleAppsScript](https://img.shields.io/badge/Code-GoogleAppScript-Green)
   ![Heroku](https://img.shields.io/badge/Tool-Heroku-purple)
