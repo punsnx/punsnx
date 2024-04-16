@@ -45,10 +45,5 @@ Here are some ideas to get you started:
   ![Pycharm](https://img.shields.io/badge/Tool-Pycharm-yellow)
   ![Arduino](https://img.shields.io/badge/Make-Arduino-Green)
   ![Arduino-IDE](https://img.shields.io/badge/Tool-Pycharm-green)
-  
-### havent try to make real world app with these yet!
-  ![BrainF](https://img.shields.io/badge/Code-BrainF-darkgreen)
-  ![GoogleAppsScript](https://img.shields.io/badge/Code-GoogleAppScript-Green)
-  ![Heroku](https://img.shields.io/badge/Tool-Heroku-purple)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=punsnx&layout=compact)
